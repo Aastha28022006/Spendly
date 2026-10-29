@@ -1,0 +1,13 @@
+Date,Category,Description,Amount,Payment
+2026-09-19,Education,Course Fee,1200.0,UPI
+2026-09-21,Education,Course Material,500.0,UPI
+2026-09-23,Education,Workshop,150.0,Card
+2026-09-24,Shopping,Clothes,700.0,UPI
+2026-09-26,Shopping,Books,500.0,Card
+2026-09-27,Food,Lunch at Cafe,500.0,UPI
+2026-09-28,Food,Dinner,300.0,Cash
+2026-09-29,Food,Snacks,200.0,UPI
+2026-09-30,Bills,Internet Bill,900.0,Net Banking
+2026-10-01,Health,Medicine,550.0,Card
+2026-10-02,Travel,Bus Ticket,500.0,Card
+2026-10-03,Entertainment,Movie,350.0,UPI
